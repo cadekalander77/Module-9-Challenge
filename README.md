@@ -1,6 +1,6 @@
 # Module-9-Challenge
 # Overview of Project #
-The purpose of this Project is to analyze the weather trends in **Oahu, Hawaii**. This data will be used to understand whether opening a Surf and Shake in Oahu will perform well. The Oahu shop serves surf boards and ice cream to tourist. If the shop in Oahu does well, they could expand to other islands. Specifically, summary statistics of temperature trends data has been requested for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round.
+The purpose of this Project is to analyze the weather trends in **Oahu, Hawaii**. This data will be used to understand whether opening a Surf and Shake in Oahu will perform well. The Oahu shop serves surf boards and ice cream to tourists. If the shop in Oahu does well, they could expand to other islands. Specifically, summary statistics of temperature trends data has been requested for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year round.
 
 The analysis consisted of the following:
 1. The Summary Statistics for June
