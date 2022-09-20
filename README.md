@@ -3,14 +3,8 @@
 The purpose of this Project is to analyze the weather trends in **Oahu, Hawaii**. This data will be used to understand whether opening a Surf and Shake in Oahu will perform well. The Oahu shop serves surf boards and ice cream to tourists. If the shop in Oahu does well, they could expand to other islands. Specifically, summary statistics of temperature trends data has been requested for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year round.
 
 The analysis consisted of the following:
-1. The Summary Statistics for June
-2. The Summary Statistics for December
-
-# Resources #
-- Data Source: hawaii.sqlite
-- Programming Files: SurfsUp_Challenge.ipynb, climate_analysis.ipynb
--	Data Tools: Python SQL toolkit (SQLAlchemy), Object Relational Mapper, pandas, numpy
-- Software: SQLlite, Python 3.9.2, Flask, Jupyter Notebook
+1. The Summary Statistics for June Temps
+2. The Summary Statistics for December Temps
 
 # Results #
 ## The Summary Statistics for June ##
