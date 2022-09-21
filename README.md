@@ -27,3 +27,5 @@ The average temperature recorded in December is about 71 degrees F and it is app
 December Recorded Temps Visualization (Temperature and Frequency)<br>
 <br> ![Dec Graph Stats.png](Dec-Graph-Stats.png) <br>
 <br><br>
+# Summary #
+Based off of both the summary statistcs and the graph, you can see both June and December are suitable months temperature wise for the business. Other queries I would run to paint better picture are the summary statistics of all months, and then convert the averages across a graph with temperature on the y axis and months on the x axis.
