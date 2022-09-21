@@ -25,5 +25,5 @@ The following depicts the December temps DataFrame:<br>
 The average temperature recorded in December is about 71 degrees F and it is approximately 22 degrees c. By this analysis,It is clear with that December is also favourable month for the sustainability business of surfing and ice cream in the year. We can analyze that Oahu is a great location for the new surf shop.<br>
 
 December Recorded Temps Visualization (Temperature and Frequency)<br>
-<br> ![Dec Summary Stats.png](Dec-Summary-Stats.png) <br>
+<br> ![Dec Graph Stats.png](Dec-Graph-Stats.png) <br>
 <br><br>
