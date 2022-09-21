@@ -20,10 +20,10 @@ June Recorded Temps Visualization (Temperature and Frequency)<br>
 ## Summary Statistics for December ##
 The data gives summary statistics for the temperature trends in December form the Measurements table in the hawaii.sqlite database.<br>
 The following depicts the December temps DataFrame:<br>
-![dec_temps](/surfs_up/Image/dec_temps.png) <br>
+<br> ![Dec Summary Stats.png](Dec-Summary-Stats.png) <br>
 
 The average temperature recorded in December is about 71 degrees F and it is approximately 22 degrees c. By this analysis,It is clear with that December is also favourable month for the sustainability business of surfing and ice cream in the year. We can analyze that Oahu is a great location for the new surf shop.<br>
 
 December Recorded Temps Visualization (Temperature and Frequency)<br>
-![June](/surfs_up/Image/dec_hist.png) <br>
+<br> ![Dec Summary Stats.png](Dec-Summary-Stats.png) <br>
 <br><br>
