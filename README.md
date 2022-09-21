@@ -9,13 +9,13 @@ The analysis consisted of the following:
 # Results #
 ## Summary Statistics for June ##
 The data gives summary statistics for the temperature trends in June form the Measurements table in the hawaii.sqlite database.<br>
-The following depicts the June temps DataFrame:<br>
-![June Summary Stats.png](June Summary Stats.png) <br>
+The following depicts the June temps DataFrame: <br>
+<br> ![June Summary Stats.png](June-Summary-Stats.png) <br>
 
 The average temperature recorded in June is about 75 degrees F and it is approximately 23 degrees c. It is clear with this analysis that June is one of the favourable month for the sustainability business of surfing and ice cream in the year.<br>
 
 June Recorded Temps Visualization (Temperature and Frequency)<br>
-![june_hist](/surfs_up/Image/june_hist.png) <br>
+<br> ![June-Graph-Stat.png](June-Graph-Stats.png) <br>
 
 ## Summary Statistics for December ##
 The data gives summary statistics for the temperature trends in December form the Measurements table in the hawaii.sqlite database.<br>
